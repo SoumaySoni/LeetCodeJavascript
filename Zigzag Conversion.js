@@ -13,6 +13,8 @@ var convert = function (s, numRows) {
 
     for (let c of s) {
         rows[curRow] += c;
+        console.log(c)
+        console.log(rows[curRow])
         if (curRow === 0 || curRow === numRows - 1) goingDown = !goingDown;
         curRow += goingDown ? 1 : -1;
         console.log(rows)
