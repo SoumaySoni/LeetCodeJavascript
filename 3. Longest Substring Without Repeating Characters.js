@@ -1,15 +1,19 @@
-var lengthOfLongestSubstring = function (s) {
-  let array = s.split("");
-  console.log(array);
-   
-    let arr = array.filter((item, index) => {
-      return array.indexOf(item) === index;
-    });
-   console.log(arr);
- 
-  if (s.includes(arr.join(''))) return arr.length;
+var lengthOfLongestSubstring = function(s) {
+    let set = new Set();
+    let left = 0;
+    let maxLength = 0;
+
+    for (let right = 0; right < s.length; right++) {
+        while (set.has(s[right])) {
+            set.delete(s[left]);
+            left++;
+        }
+
+        set.add(s[right]);
+        maxLength = Math.max(maxLength, right - left + 1);
+    }
+
+    return maxLength;
 };
 
-console.log(lengthOfLongestSubstring("pwwkew"));
-console.log(lengthOfLongestSubstring("abcabcbb"));
-//if (s.indexOf(arr) !== -1)
+console.log(lengthOfLongestSubstring("abcabcbb")); // 3
