@@ -26,8 +26,21 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
