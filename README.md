@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0069-sqrtx/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
