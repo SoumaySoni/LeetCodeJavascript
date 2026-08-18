@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
