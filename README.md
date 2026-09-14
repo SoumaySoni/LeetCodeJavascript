@@ -35,12 +35,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0070-climbing-stairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
