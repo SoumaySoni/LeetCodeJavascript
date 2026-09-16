@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0067-add-binary/) | Easy |
 ## String Matching
@@ -64,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0070-climbing-stairs/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
