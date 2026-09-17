@@ -17,11 +17,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0031-next-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0031-next-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
