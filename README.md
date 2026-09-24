@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/SoumaySoni/LeetCodeJavascript/tree/main/0069-sqrtx/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
